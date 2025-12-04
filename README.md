@@ -17,7 +17,7 @@ These templates have been exported in JSON format and are responsive, tested for
 
 ## Installation
 1. In the WordPress admin, navigate to "Templates"
-2. At the top bar, click "Import Templates"
+2. At the top bar, click "Import Templates"\
 ![Import Template](assets/add_templates.webp)
 3. Upload the templates.zip for all files or you may import each JSON file individually.
 4. The templates will be added to your "Saved Templates"
@@ -26,21 +26,21 @@ These templates have been exported in JSON format and are responsive, tested for
 Each template serves as a separate screen / panel of your webstory.
 
 ### Inserting a template
-1. In the Elementor editor, click the folder icon to open the templates modal.
+1. In the Elementor editor, click the folder icon to open the templates modal.\
 ![Click folder](assets/page-template-button.webp)
 
 2. At the top of the modal, navigate to "Templates" and search for "webstory" to easily access the imported templates.
-3. Select the template you would like to use and click "Insert" on the right.
+3. Select the template you would like to use and click "Insert" on the right.\
 ![Click insert](assets/template-screen.webp)
 Click "Apply" to apply settings to the container.
 
 ### Editing the template
-Make sure that your structure sidebar is open to access all the layers. This is found in the top bar ![structure icon](assets/structure.webp).
+Make sure that your structure sidebar is open to access all the layers. This is found in the top bar.\ ![structure icon](assets/structure.webp).
 
-Templates has a basic container structure:
+**Templates has a basic container structure:**
 
 **Background**
-This is the background image of the panel. To edit, navigate to the style tab on the left sidebar and replace the background. You can set the background overlay to your desired color and opacity.
+This is the background image of the panel. To edit, navigate to the style tab on the left sidebar and replace the background. You can set the background overlay to your desired color and opacity.\
 ![background tab](assets/background-container.webp)
 
 **Content**
