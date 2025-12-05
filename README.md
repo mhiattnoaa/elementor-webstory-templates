@@ -10,7 +10,7 @@ These templates have been exported in JSON format and are responsive, tested for
 - Dynamic.ooo - Dynamic Content for Elementor Plugin*
 - Advanced Custom Fields Plugin** 
 
-*This allows the title of the post to be used as the title for the slide. If it is not available, you can manually type in the title.<br <br />
+*This allows the title of the post to be used as the title for the slide. If it is not available, you can manually type in the title.<br />
 **Advanced Custom Fields or the ability to add a [Custom Post Type](https://wordpress.org/documentation/article/what-is-post-type/#custom-post-types) is recommended so you can apply a [single template](https://wordpress.org/documentation/article/what-is-post-type/#custom-post-types) to all webstory posts. Alternatively, you can create a separate template that can be applied per post/page. The template should allow content to expand full-screen.
 
 **This has not been tested on Drupal sites with Elementor installed.**
@@ -61,4 +61,5 @@ Because the panel's background is set as a background image, the Alt text cannot
 ## Changelog
 
 12/4/2025 - Uploaded files to repository
+
 
