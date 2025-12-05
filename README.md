@@ -2,6 +2,9 @@
 
 Webstory Templates for Elementor allow websites to self-host visual stories through the use of the Elementor plugin. This replaces the need to use third-party vendors to create and host storymaps or visual stories. Self-hosting this format will allow you to track analytics through your installed aggregator.
 
+You can view working webstories here:
+[OAP Webstories](https://oceanacidification.noaa.gov/webstories)
+
 These templates have been exported in JSON format and are responsive, tested for accessibility, and mobile-ready. You will need to customize to your site's style and branding.
 
 ## Requirements
@@ -61,5 +64,6 @@ Because the panel's background is set as a background image, the Alt text cannot
 ## Changelog
 
 12/4/2025 - Uploaded files to repository
+
 
 
