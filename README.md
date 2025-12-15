@@ -37,20 +37,28 @@ Each template serves as a separate screen / panel of your webstory.
 ![Click insert](assets/template-screen.webp)
 Click "Apply" to apply settings to the container.
 
+**Adding additional templates to the page**  
+Most of the templates have fixed background images and therefore, the "file icon" is hidden underneath the panel set. To get around this, hide your template panels by clicking the "eye" icon in the structure sidebar to expose the folder icon in the editor.<br />
+![Hide panel](assets/structure-eye.webp)
+
+---
+
 ### Editing the template
 Make sure that your structure sidebar is open to access all the layers. This is found in the top bar.<br /><br />![structure icon](assets/structure.webp).
 
-**Templates has a basic container structure:**
+#### Templates has a basic container structure:
 
-#### Background
+**Background**  
 This is the background image of the panel. To edit, navigate to the style tab on the left sidebar and replace the background. You can set the background overlay to your desired color and opacity.<br /><br />
 ![background tab](assets/background-container.webp)
 
-#### Content
+**Content**  
 This container is animated and holds a text placeholder for your content. Animations can be adjusted in the *Advanced* text panel under *Motion Effects > Scrolling Effects*.
 
-#### Screen Reader BG Info
+**Screen Reader BG Info**  
 Because the panel's background is set as a background image, the Alt text cannot be read by screen readers. As a workaround, this transparent text box was created and intended for use only by screen readers to meet accessibility standards. You may adjust the positioning of this text box to "absolute" so not to disturb your layout. You can find this setting under *Advanced > Layout > Position*
+
+---
 
 ## Template files
 | Template Name | Description |
@@ -62,8 +70,9 @@ Because the panel's background is set as a background image, the Alt text cannot
 
 
 ## Changelog
-
+12/15/2025 - Updated README
 12/4/2025 - Uploaded files to repository
+
 
 
 
