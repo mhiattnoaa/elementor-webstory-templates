@@ -13,7 +13,8 @@ These templates have been exported in JSON format and are responsive, tested for
 - Dynamic.ooo - Dynamic Content for Elementor Plugin*
 - Advanced Custom Fields Plugin** 
 
-*This allows the title of the post to be used as the title for the slide. If it is not available, you can manually type in the title.<br />
+*This allows the title of the post to be used as the title for the slide. If it is not available, you can manually type in the title.
+
 **Advanced Custom Fields or the ability to add a [Custom Post Type](https://wordpress.org/documentation/article/what-is-post-type/#custom-post-types) is recommended so you can apply a [single template](https://wordpress.org/documentation/article/what-is-post-type/#custom-post-types) to all webstory posts. Alternatively, you can create a separate template that can be applied per post/page. The template should allow content to expand full-screen.
 
 **This has not been tested on Drupal sites with Elementor installed.**
@@ -46,7 +47,7 @@ Most of the templates have fixed background images and therefore, the "file icon
 ### Editing the template
 Make sure that your structure sidebar is open to access all the layers. This is found in the top bar.<br /><br />![structure icon](assets/structure.webp).
 
-#### Templates has a basic container structure:
+#### Templates have a basic container structure:
 
 **Background**  
 This is the background image of the panel. To edit, navigate to the style tab on the left sidebar and replace the background. You can set the background overlay to your desired color and opacity.<br /><br />
